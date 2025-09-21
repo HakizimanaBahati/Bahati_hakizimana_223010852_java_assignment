@@ -2,7 +2,7 @@ package com.case5;
 
 import java.util.Scanner;
 
-//Rectangle and Circle are package-level (non-public) top-level classes
+
 class Rectangle {
  double length, width;
  Rectangle(double length, double width) { this.length = length; this.width = width; }
@@ -47,3 +47,4 @@ public class ShapeComparison {
      sc.close();
  }
 }
+
